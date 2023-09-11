@@ -3,7 +3,9 @@
 
 // dotenv.config();
 // export const apiKey = process.env.API_KEY 
-export const apiKey = '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'
+
+//your api key
+export const apiKey = ''
 console.log(apiKey)
 
 // export const apiKey = ${API_KEY}

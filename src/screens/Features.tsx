@@ -15,22 +15,22 @@ export default function Features() {
         <Text style={{fontSize: wp(6.5)}} className="font-semibold text-gray-700">Features</Text>
         <View className="bg-emerald-200 p-4 rounded-xl space-y-2 w-11/12 mx-auto">
             <View className="flex-row items-center space-x-1">
-                <Image className="rounded-ful" source={heart} style={{height: hp(4), width: hp(4)}} />
-                <Text style={{fontSize: wp(4.8)}} className="font-semibold text-gray-700">Emotional well being</Text>
+                <Image className="rounded-ful" source={chatgptIcon} style={{height: hp(4), width: hp(4)}} />
+                <Text style={{fontSize: wp(4.8)}} className="font-semibold text-gray-700">ChatGPT</Text>
             </View>
             
             <Text style={{fontSize: wp(3.8)}} className="text-gray-700 font-medium">
-            Emotional wellness is the ability to successfully handle life's stresses and adapt to change and difficult times.
+            ChatGPT can provide you with instant and knowledgeable responses, assist you with creative ideas on a wide range of topics.
             </Text>
         </View>
         <View className="bg-purple-200 p-4 rounded-xl space-y-2 w-11/12 mx-auto">
             <View className="flex-row items-center space-x-1">
-                <Image className="rounded-ful" source={mentalHealth} style={{height: hp(4), width: hp(4)}} />
-                <Text style={{fontSize: wp(4.8)}} className="font-semibold text-gray-700">Mental Health</Text>
+                <Image className="rounded-ful" source={dalleIcon} style={{height: hp(4), width: hp(4)}} />
+                <Text style={{fontSize: wp(4.8)}} className="font-semibold text-gray-700">Dall-E</Text>
             </View>
             
             <Text style={{fontSize: wp(3.8)}} className="text-gray-700 font-medium">
-            Mental health includes our emotional, psychological, and social well-being. It affects how we think, feel, and act. It also helps determine how we handle stress, relate to others, and make healthy choices. 
+            DALL-E can generate imaginative and diverse images from textual descriptions, expanding the boundaries of visual creativity. 
             </Text>
         </View>
         <View className="bg-cyan-200 p-4 rounded-xl space-y-2 w-11/12 mx-auto">
