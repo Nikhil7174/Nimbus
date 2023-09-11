@@ -44,6 +44,12 @@ yarn ios
 
 If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
 
+![WhatsApp Image 2023-09-11 at 10 27 36 PM](https://github.com/Nikhil7174/Nimbus/assets/40711348/994ee69f-17da-4a08-b93f-d132a5788e81)
+![WhatsApp Image 2023-09-11 at 10 27 35 PM](https://github.com/Nikhil7174/Nimbus/assets/40711348/7959a8c4-22a5-4094-a82a-609cff8173d6)
+![WhatsApp Image 2023-09-12 at 1 53 53 AM](https://github.com/Nikhil7174/Nimbus/assets/40711348/4fe0a45f-da91-4eb1-9a4e-30d5418e6046)
+![WhatsApp Image 2023-09-11 at 10 27 34 PM](https://github.com/Nikhil7174/Nimbus/assets/40711348/e0bc740e-3ece-4272-a411-f0a34d06715f)
+
+
 This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
 
 ## Step 3: Modifying your App
